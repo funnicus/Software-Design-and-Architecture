@@ -1,0 +1,1 @@
+# __init__.py sijaitsee jokaisen python packagen sisällä. Se voi olla vain tyhjä tiedosto.
